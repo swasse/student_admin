@@ -1,0 +1,19 @@
+.odd{
+    background-color: #FFF;
+}
+.even{
+    background-color: #DDD;
+}
+.errorpage{
+    background: url("../Images/droids.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+    color: aliceblue;
+
+}
+table{
+    width: 100%;
+}
