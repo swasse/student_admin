@@ -5,7 +5,6 @@ import java.time.LocalDate;
 
 @Entity
 public class Student {
-
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private int id;
